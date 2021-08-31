@@ -13,7 +13,6 @@ pub fn all_leetcode_descriptions(src_dir: &Path) -> Vec<LeetcodeDescription> {
         let entry = entry.unwrap();
         if entry.file_type().is_file() {
             let filename = entry.file_name().to_str().unwrap().to_string();
-            let n = filename.len();
             let s: Vec<String> = filename.split('_').map(|s| s.to_string()).collect();
             let id = s[0].clone()[1..].parse::<i32>().unwrap();
             let mut file = File::open(entry.path()).unwrap();
@@ -26,6 +25,7 @@ pub fn all_leetcode_descriptions(src_dir: &Path) -> Vec<LeetcodeDescription> {
     descriptions
 }
 
+#[allow(dead_code)]
 pub fn all_adventofcode_descriptions(src_dir: &Path) -> Vec<AdventOfCodeDescription> {
     let mut descriptions: Vec<AdventOfCodeDescription> = vec![];
     let re_year_day = Regex::new(r"(\d+)/day(\d+).md").unwrap();

@@ -11,20 +11,13 @@ use askama::Template;
 use description::*;
 use diesel::prelude::*;
 use diesel::sqlite::SqliteConnection;
-use google::*;
 use leetcode::*;
 use rustgym_consts::*;
-// use rustgym_schema::AdventOfCodeDescription;
-// use rustgym_schema::GoogleProblem;
-use itertools::Itertools;
-use rustgym_schema::{LeetcodeQuestion, LeetcodeSolution};
+use rustgym_schema::LeetcodeQuestion;
 use solution::*;
 use std::collections::HashSet;
 use std::fs;
 use std::path::Path;
-use walkdir::WalkDir;
-use fs::File;
-use std::io::Read;
 
 #[derive(Template, new)]
 #[template(path = "readme.j2")]
@@ -37,10 +30,11 @@ struct ReadmeContext {
 // type Tags = HashMap<i32, Vec<Tag>>;
 // type Tag = (String, String);
 
+#[allow(unused_must_use)]
 fn main() -> Result<()> {
-    use rustgym_schema::schema::adventofcode_description::dsl::*;
-    use rustgym_schema::schema::adventofcode_solution::dsl::*;
-    use rustgym_schema::schema::google_problem::dsl::*;
+    // use rustgym_schema::schema::adventofcode_description::dsl::*;
+    // use rustgym_schema::schema::adventofcode_solution::dsl::*;
+    // use rustgym_schema::schema::google_problem::dsl::*;
     use rustgym_schema::schema::leetcode_description::dsl::*;
     use rustgym_schema::schema::leetcode_question::dsl::*;
     use rustgym_schema::schema::leetcode_solution::dsl::*;
@@ -59,7 +53,6 @@ fn main() -> Result<()> {
         .unwrap_or_default();
     // let leetcode_concurrency_questions = leetcode_concurrency_questions
     //     .iter().unique_by(|p| &p.id).collect::<Vec<_>>();
-
     diesel::insert_into(leetcode_question)
         .values(&leetcode_algorithms_questions)
         .execute(&conn);

@@ -28,6 +28,7 @@ pub fn all_leetcode_solutions(src_dir: &Path) -> Vec<LeetcodeSolution> {
     solutions
 }
 
+#[allow(dead_code)]
 pub fn all_adventofcode_solutions(src_dir: &Path) -> Vec<AdventOfCodeSolution> {
     let mut solutions: Vec<AdventOfCodeSolution> = vec![];
     let re_year_day = Regex::new(r"(\d+)/day(\d+)/mod.rs").unwrap();

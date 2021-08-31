@@ -4,6 +4,7 @@ use std::fs::read_to_string;
 use std::path::Path;
 use walkdir::WalkDir;
 
+#[allow(dead_code)]
 pub fn all_google_problems(path: &Path) -> Vec<GoogleProblem> {
     let mut hm: HashMap<i32, GoogleProblem> = HashMap::new();
     for entry in WalkDir::new(path) {
