@@ -1,4 +1,4 @@
-env_files = ["infra/ignore.env", "infra/const.env"]
+#env_files = ["infra/ignore.env", "infra/const.env"]
 
 [config]
 default_to_workspace = false
@@ -7,10 +7,10 @@ default_to_workspace = false
 script = "git submodule update --init"
 
 [tasks.rm_sqlite]
-script = ["rm rustgym.sqlite"]
+script = ["rm -f rust-practice.sqlite"]
 
 [tasks.migration]
-script = ["diesel migration run --database-url rustgym.sqlite"]
+script = ["diesel migration run --database-url rust-practice.sqlite"]
 
 [tasks.readme]
 script = ["cargo run --bin rustgym-readme"]

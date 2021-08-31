@@ -4,7 +4,7 @@ pkg/
 .vscode
 .DS_Store
 .idea
-#*.sqlite
+*.sqlite
 *.tar.gz
 stream/
 data/

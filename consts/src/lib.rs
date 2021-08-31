@@ -1,9 +1,13 @@
 use std::time::Duration;
 
-pub const LEETCODE_ALGORITHMS_URL: &str = "https://leetcode.com/api/problems/algorithms/";
-pub const LEETCODE_CONCURRENCY_URL: &str = "https://leetcode.com/api/problems/concurrency/";
-pub const LEETCODE_TAG_URL: &str = "https://leetcode.com/problems/api/tags/";
-pub const LEETCODE_QUESTION_URL: &str = "https://leetcode.com/problems/";
+// pub const LEETCODE_ALGORITHMS_URL: &str = "https://leetcode.com/api/problems/algorithms/";
+// pub const LEETCODE_CONCURRENCY_URL: &str = "https://leetcode.com/api/problems/concurrency/";
+// pub const LEETCODE_TAG_URL: &str = "https://leetcode.com/problems/api/tags/";
+// pub const LEETCODE_QUESTION_URL: &str = "https://leetcode.com/problems/";
+pub const LEETCODE_ALGORITHMS_URL: &str = "https://leetcode-cn.com/api/problems/algorithms/";
+pub const LEETCODE_CONCURRENCY_URL: &str = "https://leetcode-cn.com/api/problems/concurrency/";
+pub const LEETCODE_TAG_URL: &str = "https://leetcode-cn.com/problems/api/tags/";
+pub const LEETCODE_QUESTION_URL: &str = "https://leetcode-cn.com/problems/";
 pub const CARGO_MANIFEST_DIR: &str = "CARGO_MANIFEST_DIR";
 pub const README_MD: &str = "README.md";
 pub const LEETCODE_SRC: &str = "leetcode/src/";

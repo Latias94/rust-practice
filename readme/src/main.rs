@@ -46,24 +46,22 @@ fn main() -> Result<()> {
 
     let leetcode_algorithms_questions =
         leetcode_algorithms_json.get_questions().unwrap_or_default();
-    // let leetcode_algorithms_questions = leetcode_algorithms_questions
-    //     .iter().unique_by(|p| &p.id).collect::<Vec<_>>();
+
     let leetcode_concurrency_questions = leetcode_concurrency_json
         .get_questions()
         .unwrap_or_default();
-    // let leetcode_concurrency_questions = leetcode_concurrency_questions
-    //     .iter().unique_by(|p| &p.id).collect::<Vec<_>>();
-    diesel::insert_into(leetcode_question)
-        .values(&leetcode_algorithms_questions)
-        .execute(&conn);
 
     diesel::insert_into(leetcode_question)
+        .values(&leetcode_algorithms_questions)
+        .execute(&conn)?;
+    diesel::insert_into(leetcode_question)
         .values(&leetcode_concurrency_questions)
-        .execute(&conn);
+        .execute(&conn)?;
 
     let src_dir = Path::new(LEETCODE_SRC);
 
     let leetcode_solutions = all_leetcode_solutions(src_dir);
+
     diesel::insert_into(leetcode_solution)
         .values(&leetcode_solutions)
         .execute(&conn);
