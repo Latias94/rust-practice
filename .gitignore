@@ -1,0 +1,10 @@
+**/target
+**/*.rs.bk
+pkg/
+.vscode
+.DS_Store
+.idea
+#*.sqlite
+*.tar.gz
+stream/
+data/

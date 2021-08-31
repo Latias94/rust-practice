@@ -1,0 +1,1 @@
+DROP TABLE leetcode_question

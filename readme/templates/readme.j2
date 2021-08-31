@@ -1,0 +1,38 @@
+# RUST PRACTICE
+
+锤炼 Rust 技能。
+
+## [Leetcode Solutions in Rust](#leetcode)
+
+[leetcode 环境设置](./leetcode/README.md)
+
+<table id="leetcode" class="table-auto">
+  <thead>
+    <tr>
+      <th>id</th>
+      <th>Leetcode</th>
+      <th>Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for question in leetcode_questions %}
+      <tr>
+        <td>
+          {{question.id}}
+        </td>
+        <td>
+          <a href="./leetcode/src/{{question.filename}}.rs"> {{question.title}} </a>
+        </td>
+        <td>
+          {%- if question.level == 1 -%}
+            Easy
+          {%- else if question.level == 2 -%}
+            Medium
+          {%- else if question.level == 3 -%}
+            Hard
+          {%- endif -%}
+        </td>
+      </tr>
+    {%- endfor -%}
+  </tbody>
+</table>

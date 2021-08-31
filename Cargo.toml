@@ -1,0 +1,19 @@
+[workspace]
+members = [
+    "leetcode",
+#    "rustgym",
+#    "util",
+    "readme",
+    "consts",
+    "schema",
+#    "server",
+#    "characters",
+#    "wasm",
+#    "msg",
+#    "ingest",
+#    "adventofcode",
+#    "google",
+#    "hackerrank",
+#    "tfrs",
+#    "tfrs-sys"
+]
