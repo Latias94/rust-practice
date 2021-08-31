@@ -2,9 +2,9 @@
 
 锤炼 Rust 技能。
 
-## [Leetcode Solutions in Rust](#leetcode)
+[环境设置](./Setup.md)
 
-[leetcode 环境设置](./leetcode/README.md)
+## [Leetcode Solutions in Rust](#leetcode)
 
 <table id="leetcode" class="table-auto">
   <thead>
