@@ -24,7 +24,8 @@
           <a href="./leetcode/src/s0001_two_sum.rs"> Two Sum </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0001_two_sum.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0001_two_sum.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/two-sum/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -36,7 +37,8 @@
           <a href="./leetcode/src/s0002_add_two_numbers.rs"> Add Two Numbers </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0002_add_two_numbers.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0002_add_two_numbers.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/add-two-numbers/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -48,7 +50,8 @@
           <a href="./leetcode/src/s0003_longest_substring_without_repeating_characters.rs"> Longest Substring Without Repeating Characters </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0003_longest_substring_without_repeating_characters.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0003_longest_substring_without_repeating_characters.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -60,7 +63,8 @@
           <a href="./leetcode/src/s0035_search_insert_position.rs"> Search Insert Position </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0035_search_insert_position.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0035_search_insert_position.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/search-insert-position/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -72,7 +76,8 @@
           <a href="./leetcode/src/s0053_maximum_subarray.rs"> Maximum Subarray </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0053_maximum_subarray.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0053_maximum_subarray.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/maximum-subarray/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -84,7 +89,8 @@
           <a href="./leetcode/src/s0055_jump_game.rs"> Jump Game </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0055_jump_game.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0055_jump_game.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/jump-game/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -96,7 +102,8 @@
           <a href="./leetcode/src/s0058_length_of_last_word.rs"> Length of Last Word </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0058_length_of_last_word.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0058_length_of_last_word.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/length-of-last-word/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -108,7 +115,8 @@
           <a href="./leetcode/src/s0062_unique_paths.rs"> Unique Paths </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0062_unique_paths.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0062_unique_paths.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/unique-paths/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -120,7 +128,8 @@
           <a href="./leetcode/src/s0063_unique_paths_ii.rs"> Unique Paths II </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0063_unique_paths_ii.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0063_unique_paths_ii.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/unique-paths-ii/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -132,7 +141,8 @@
           <a href="./leetcode/src/s0064_minimum_path_sum.rs"> Minimum Path Sum </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0064_minimum_path_sum.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0064_minimum_path_sum.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/minimum-path-sum/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -144,7 +154,8 @@
           <a href="./leetcode/src/s0070_climbing_stairs.rs"> Climbing Stairs </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0070_climbing_stairs.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0070_climbing_stairs.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/climbing-stairs/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -156,7 +167,8 @@
           <a href="./leetcode/src/s0072_edit_distance.rs"> Edit Distance </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0072_edit_distance.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0072_edit_distance.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/edit-distance/">Link</a>
         </td>
         <td>Hard</td>
       </tr>
@@ -168,7 +180,8 @@
           <a href="./leetcode/src/s0105_construct_binary_tree_from_preorder_and_inorder_traversal.rs"> Construct Binary Tree from Preorder and Inorder Traversal </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0105_construct_binary_tree_from_preorder_and_inorder_traversal.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0105_construct_binary_tree_from_preorder_and_inorder_traversal.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -180,7 +193,8 @@
           <a href="./leetcode/src/s0124_binary_tree_maximum_path_sum.rs"> Binary Tree Maximum Path Sum </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0124_binary_tree_maximum_path_sum.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0124_binary_tree_maximum_path_sum.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">Link</a>
         </td>
         <td>Hard</td>
       </tr>
@@ -192,7 +206,8 @@
           <a href="./leetcode/src/s0136_single_number.rs"> Single Number </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0136_single_number.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0136_single_number.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/single-number/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -204,7 +219,8 @@
           <a href="./leetcode/src/s0189_rotate_array.rs"> Rotate Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0189_rotate_array.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0189_rotate_array.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/rotate-array/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -216,7 +232,8 @@
           <a href="./leetcode/src/s0198_house_robber.rs"> House Robber </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0198_house_robber.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0198_house_robber.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/house-robber/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -228,7 +245,8 @@
           <a href="./leetcode/src/s0213_house_robber_ii.rs"> House Robber II </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0213_house_robber_ii.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0213_house_robber_ii.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/house-robber-ii/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -240,7 +258,8 @@
           <a href="./leetcode/src/s0278_first_bad_version.rs"> First Bad Version </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0278_first_bad_version.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0278_first_bad_version.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/first-bad-version/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -252,7 +271,8 @@
           <a href="./leetcode/src/s0452_minimum_number_of_arrows_to_burst_balloons.rs"> Minimum Number of Arrows to Burst Balloons </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0452_minimum_number_of_arrows_to_burst_balloons.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0452_minimum_number_of_arrows_to_burst_balloons.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -264,7 +284,8 @@
           <a href="./leetcode/src/s0455_assign_cookies.rs"> Assign Cookies </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0455_assign_cookies.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0455_assign_cookies.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/assign-cookies/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -276,7 +297,8 @@
           <a href="./leetcode/src/s0509_fibonacci_number.rs"> Fibonacci Number </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0509_fibonacci_number.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0509_fibonacci_number.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/fibonacci-number/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -288,7 +310,8 @@
           <a href="./leetcode/src/s0704_binary_search.rs"> Binary Search </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0704_binary_search.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0704_binary_search.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/binary-search/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -300,7 +323,8 @@
           <a href="./leetcode/src/s0740_delete_and_earn.rs"> Delete and Earn </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0740_delete_and_earn.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0740_delete_and_earn.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/delete-and-earn/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -312,7 +336,8 @@
           <a href="./leetcode/src/s0746_min_cost_climbing_stairs.rs"> Min Cost Climbing Stairs </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0746_min_cost_climbing_stairs.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0746_min_cost_climbing_stairs.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/min-cost-climbing-stairs/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -324,7 +349,8 @@
           <a href="./leetcode/src/s0860_lemonade_change.rs"> Lemonade Change </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0860_lemonade_change.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0860_lemonade_change.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/lemonade-change/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -336,7 +362,8 @@
           <a href="./leetcode/src/s0977_squares_of_a_sorted_array.rs"> Squares of a Sorted Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0977_squares_of_a_sorted_array.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s0977_squares_of_a_sorted_array.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -348,7 +375,8 @@
           <a href="./leetcode/src/s1137_n_th_tribonacci_number.rs"> N-th Tribonacci Number </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s1137_n_th_tribonacci_number.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s1137_n_th_tribonacci_number.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/n-th-tribonacci-number/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -360,7 +388,8 @@
           <a href="./leetcode/src/s1480_running_sum_of_1d_array.rs"> Running Sum of 1d Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s1480_running_sum_of_1d_array.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s1480_running_sum_of_1d_array.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/running-sum-of-1d-array/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -372,7 +401,8 @@
           <a href="./leetcode/src/s1588_sum_of_all_odd_length_subarrays.rs"> Sum of All Odd Length Subarrays </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s1588_sum_of_all_odd_length_subarrays.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s1588_sum_of_all_odd_length_subarrays.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -384,7 +414,8 @@
           <a href="./leetcode/src/s1979_find_greatest_common_divisor_of_array.rs"> Find Greatest Common Divisor of Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s1979_find_greatest_common_divisor_of_array.md"> Link </a>
+          <a href="./leetcode/src/doc/content/s1979_find_greatest_common_divisor_of_array.md">MD</a> / 
+          <a href="https://leetcode-cn.com/problems/find-greatest-common-divisor-of-array/">Link</a>
         </td>
         <td>Easy</td>
       </tr></tbody>
