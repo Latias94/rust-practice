@@ -13,7 +13,7 @@ use diesel::prelude::*;
 use diesel::sqlite::SqliteConnection;
 use leetcode::*;
 use rustgym_consts::*;
-use rustgym_schema::LeetcodeQuestion;
+use rustgym_schema::{LeetcodeQuestion, LeetcodeSolution, LeetcodeDescription};
 use solution::*;
 use std::collections::HashSet;
 use std::fs;
@@ -30,7 +30,6 @@ struct ReadmeContext {
 // type Tags = HashMap<i32, Vec<Tag>>;
 // type Tag = (String, String);
 
-#[allow(unused_must_use)]
 fn main() -> Result<()> {
     // use rustgym_schema::schema::adventofcode_description::dsl::*;
     // use rustgym_schema::schema::adventofcode_solution::dsl::*;
@@ -58,21 +57,38 @@ fn main() -> Result<()> {
         .values(&leetcode_concurrency_questions)
         .execute(&conn)?;
 
-    let src_dir = Path::new(LEETCODE_SRC);
+    let leetcode_all_questions: Vec<&LeetcodeQuestion> = leetcode_algorithms_questions.iter().chain(leetcode_concurrency_questions.iter()).collect();
 
+    let leetcode_question_id_set = leetcode_all_questions
+        .iter()
+        .enumerate()
+        .map(|(_, v)| (v.id))
+        .collect::<HashSet<i32>>();
+
+    let src_dir = Path::new(LEETCODE_SRC);
     let leetcode_solutions = all_leetcode_solutions(src_dir);
+
+    // json 文件里面的问题列表不太全
+    let leetcode_solutions = leetcode_solutions
+        .into_iter()
+        .filter(|question| leetcode_question_id_set.contains(&question.question_id))
+        .collect::<Vec<LeetcodeSolution>>();
 
     diesel::insert_into(leetcode_solution)
         .values(&leetcode_solutions)
-        .execute(&conn);
+        .execute(&conn)?;
 
     let leetcode_desc_dir = Path::new(LEETCODE_DESC);
     let leetcode_descriptions = all_leetcode_descriptions(leetcode_desc_dir);
+    let leetcode_descriptions = leetcode_descriptions
+        .into_iter()
+        .filter(|question| leetcode_question_id_set.contains(&question.id))
+        .collect::<Vec<LeetcodeDescription>>();
     for description in leetcode_descriptions {
         println!("{}", description);
         diesel::insert_into(leetcode_description)
             .values(&description)
-            .execute(&conn);
+            .execute(&conn)?;
     }
 
     // let adventofcode_desc_dir = Path::new(ADVENTOFCODE_DESC);
