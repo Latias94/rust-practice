@@ -213,6 +213,19 @@
       </tr>
       <tr>
         <td>
+          165
+        </td>
+        <td>
+          <a href="./leetcode/src/s0165_compare_version_numbers.rs"> Compare Version Numbers </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0165_compare_version_numbers.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/compare-version-numbers/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           189
         </td>
         <td>

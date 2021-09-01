@@ -29,3 +29,4 @@ mod s1137_n_th_tribonacci_number;
 mod s1480_running_sum_of_1d_array;
 mod s1588_sum_of_all_odd_length_subarrays;
 mod s1979_find_greatest_common_divisor_of_array;
+mod s0165_compare_version_numbers;
