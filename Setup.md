@@ -20,7 +20,7 @@ cargo install --force cargo-make
 生成数据库表
 
 ```shell
-cargo make --makefile .\Makefile.toml readme
+cargo make readme
 ```
 
 再运行一次 `rustgym-readme` 生成 README，并存数据到数据库中。

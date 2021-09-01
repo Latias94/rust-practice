@@ -7,7 +7,9 @@ default_to_workspace = false
 script = "git submodule update --init"
 
 [tasks.rm_sqlite]
-script = ["rm -f rust-practice.sqlite"]
+script_runner = "@duckscript"
+script = ["rm rust-practice.sqlite"]
+#ignore_errors=true
 
 [tasks.migration]
 script = ["diesel migration run --database-url rust-practice.sqlite"]
