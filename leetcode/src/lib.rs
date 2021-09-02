@@ -31,3 +31,4 @@ mod s1588_sum_of_all_odd_length_subarrays;
 mod s1979_find_greatest_common_divisor_of_array;
 mod s0165_compare_version_numbers;
 mod s1109_corporate_flight_bookings;
+mod offer0022_lian_biao_zhong_dao_shu_di_kge_jie_dian_lcof;

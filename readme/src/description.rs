@@ -13,13 +13,15 @@ pub fn all_leetcode_descriptions(src_dir: &Path) -> Vec<LeetcodeDescription> {
         let entry = entry.unwrap();
         if entry.file_type().is_file() {
             let filename = entry.file_name().to_str().unwrap().to_string();
-            let s: Vec<String> = filename.split('_').map(|s| s.to_string()).collect();
-            let id = s[0].clone()[1..].parse::<i32>().unwrap();
-            let mut file = File::open(entry.path()).unwrap();
-            let mut html = "".to_string();
-            file.read_to_string(&mut html).unwrap();
-            let description = LeetcodeDescription::new(id, filename, html);
-            descriptions.push(description);
+            if let Some(0) = filename.find('s') {
+                let s: Vec<String> = filename.split('_').map(|s| s.to_string()).collect();
+                let id = s[0].clone()[1..].parse::<i32>().unwrap();
+                let mut file = File::open(entry.path()).unwrap();
+                let mut html = "".to_string();
+                file.read_to_string(&mut html).unwrap();
+                let description = LeetcodeDescription::new(id, filename, html);
+                descriptions.push(description);
+            }
         }
     }
     descriptions

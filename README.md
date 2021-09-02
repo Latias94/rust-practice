@@ -379,5 +379,18 @@
           <a href="https://leetcode-cn.com/problems/height-checker/">Link</a>
         </td>
         <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          1979
+        </td>
+        <td>
+          <a href="./leetcode/src/s1979_maximum_number_of_people_that_can_be_caught_in_tag.rs"> Maximum Number of People That Can Be Caught in Tag </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s1979_maximum_number_of_people_that_can_be_caught_in_tag.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/">Link</a>
+        </td>
+        <td>Medium</td>
       </tr></tbody>
 </table>
