@@ -148,6 +148,19 @@
       </tr>
       <tr>
         <td>
+          66
+        </td>
+        <td>
+          <a href="./leetcode/src/s0066_plus_one.rs"> Plus One </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0066_plus_one.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/plus-one/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           70
         </td>
         <td>

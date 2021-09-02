@@ -20,6 +20,7 @@ use rustgym_util::*;
 //   }
 // }
 impl Solution {
+    #[allow(dead_code)]
     pub fn get_kth_from_end(head: Option<Box<ListNode>>, k: i32) -> Option<Box<ListNode>> {
         let mut fast = head.as_ref();
         let mut slow = head.as_ref();
@@ -43,7 +44,7 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use super::*;
+    // use super::*;
 
     #[test]
     fn test() {}

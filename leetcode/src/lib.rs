@@ -8,6 +8,7 @@ mod s0058_length_of_last_word;
 mod s0062_unique_paths;
 mod s0063_unique_paths_ii;
 mod s0064_minimum_path_sum;
+mod s0066_plus_one;
 mod s0070_climbing_stairs;
 mod s0072_edit_distance;
 mod s0105_construct_binary_tree_from_preorder_and_inorder_traversal;
