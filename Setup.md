@@ -17,10 +17,8 @@ cargo install diesel_cli --no-default-features --features "sqlite-bundled"
 cargo install --force cargo-make
 ```
 
-生成数据库表
+抓取题目、描述和解答到数据库，并根据模板生成 README.md。
 
 ```shell
 cargo make readme
 ```
-
-再运行一次 `rustgym-readme` 生成 README，并存数据到数据库中。
