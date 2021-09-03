@@ -14,6 +14,7 @@ mod s0072_edit_distance;
 mod s0105_construct_binary_tree_from_preorder_and_inorder_traversal;
 mod s0124_binary_tree_maximum_path_sum;
 mod s0136_single_number;
+mod s0168_excel_sheet_column_title;
 mod s0189_rotate_array;
 mod s0198_house_robber;
 mod s0213_house_robber_ii;

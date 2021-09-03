@@ -24,7 +24,7 @@ impl Solution {
     pub fn get_kth_from_end(head: Option<Box<ListNode>>, k: i32) -> Option<Box<ListNode>> {
         let mut fast = head.as_ref();
         let mut slow = head.as_ref();
-        for i in 0..k {
+        for _i in 0..k {
             match fast.take() {
                 Some(node) => {
                     fast = node.next.as_ref();

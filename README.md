@@ -239,6 +239,19 @@
       </tr>
       <tr>
         <td>
+          168
+        </td>
+        <td>
+          <a href="./leetcode/src/s0168_excel_sheet_column_title.rs"> Excel Sheet Column Title </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0168_excel_sheet_column_title.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/excel-sheet-column-title/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           189
         </td>
         <td>
