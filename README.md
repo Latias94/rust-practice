@@ -265,6 +265,19 @@
       </tr>
       <tr>
         <td>
+          171
+        </td>
+        <td>
+          <a href="./leetcode/src/s0171_excel_sheet_column_number.rs"> Excel Sheet Column Number </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0171_excel_sheet_column_number.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/excel-sheet-column-number/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           189
         </td>
         <td>

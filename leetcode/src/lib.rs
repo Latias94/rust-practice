@@ -16,6 +16,7 @@ mod s0124_binary_tree_maximum_path_sum;
 mod s0125_valid_palindrome;
 mod s0136_single_number;
 mod s0168_excel_sheet_column_title;
+mod s0171_excel_sheet_column_number;
 mod s0189_rotate_array;
 mod s0198_house_robber;
 mod s0213_house_robber_ii;

@@ -49,12 +49,12 @@ mod tests {
 
     #[test]
     fn test() {
-        // let input = "A man, a plan, a canal: Panama".to_string();
-        // assert_eq!(Solution::is_palindrome(input), true);
-        // let input = "race a car".to_string();
-        // assert_eq!(Solution::is_palindrome(input), false);
-        // let input = ".,".to_string();
-        // assert_eq!(Solution::is_palindrome(input), true);
+        let input = "A man, a plan, a canal: Panama".to_string();
+        assert_eq!(Solution::is_palindrome(input), true);
+        let input = "race a car".to_string();
+        assert_eq!(Solution::is_palindrome(input), false);
+        let input = ".,".to_string();
+        assert_eq!(Solution::is_palindrome(input), true);
         let input = "0P".to_string();
         assert_eq!(Solution::is_palindrome(input), false);
     }
