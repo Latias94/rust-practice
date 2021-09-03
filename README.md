@@ -213,6 +213,19 @@
       </tr>
       <tr>
         <td>
+          125
+        </td>
+        <td>
+          <a href="./leetcode/src/s0125_valid_palindrome.rs"> Valid Palindrome </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0125_valid_palindrome.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/valid-palindrome/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           136
         </td>
         <td>
