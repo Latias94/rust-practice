@@ -359,13 +359,26 @@
           509
         </td>
         <td>
-          <a href="./leetcode/src/s0509_inorder_successor_in_bst_ii.rs"> Inorder Successor in BST II </a>
+          <a href="./leetcode/src/s0509_fibonacci_number.rs"> Fibonacci Number </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0509_inorder_successor_in_bst_ii.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/inorder-successor-in-bst-ii/">Link</a>
+          <a href="./leetcode/src/doc/content/s0509_fibonacci_number.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/fibonacci-number/">Link</a>
         </td>
-        <td>Medium</td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          704
+        </td>
+        <td>
+          <a href="./leetcode/src/s0704_binary_search.rs"> Binary Search </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0704_binary_search.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/binary-search/">Link</a>
+        </td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>
@@ -385,37 +398,37 @@
           746
         </td>
         <td>
-          <a href="./leetcode/src/s0746_prefix_and_suffix_search.rs"> Prefix and Suffix Search </a>
+          <a href="./leetcode/src/s0746_min_cost_climbing_stairs.rs"> Min Cost Climbing Stairs </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0746_prefix_and_suffix_search.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/prefix-and-suffix-search/">Link</a>
+          <a href="./leetcode/src/doc/content/s0746_min_cost_climbing_stairs.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/min-cost-climbing-stairs/">Link</a>
         </td>
-        <td>Hard</td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>
           860
         </td>
         <td>
-          <a href="./leetcode/src/s0860_design_circular_queue.rs"> Design Circular Queue </a>
+          <a href="./leetcode/src/s0860_lemonade_change.rs"> Lemonade Change </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0860_design_circular_queue.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/design-circular-queue/">Link</a>
+          <a href="./leetcode/src/doc/content/s0860_lemonade_change.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/lemonade-change/">Link</a>
         </td>
-        <td>Medium</td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>
           912
         </td>
         <td>
-          <a href="./leetcode/src/s0912_random_pick_with_weight.rs"> Random Pick with Weight </a>
+          <a href="./leetcode/src/s0912_sort_an_array.rs"> Sort an Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0912_random_pick_with_weight.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/random-pick-with-weight/">Link</a>
+          <a href="./leetcode/src/doc/content/s0912_sort_an_array.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/sort-an-array/">Link</a>
         </td>
         <td>Medium</td>
       </tr>
@@ -424,24 +437,63 @@
           977
         </td>
         <td>
-          <a href="./leetcode/src/s0977_distinct_subsequences_ii.rs"> Distinct Subsequences II </a>
+          <a href="./leetcode/src/s0977_squares_of_a_sorted_array.rs"> Squares of a Sorted Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s0977_distinct_subsequences_ii.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/distinct-subsequences-ii/">Link</a>
+          <a href="./leetcode/src/doc/content/s0977_squares_of_a_sorted_array.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">Link</a>
         </td>
-        <td>Hard</td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          1109
+        </td>
+        <td>
+          <a href="./leetcode/src/s1109_corporate_flight_bookings.rs"> Corporate Flight Bookings </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s1109_corporate_flight_bookings.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/corporate-flight-bookings/">Link</a>
+        </td>
+        <td>Medium</td>
       </tr>
       <tr>
         <td>
           1137
         </td>
         <td>
-          <a href="./leetcode/src/s1137_height_checker.rs"> Height Checker </a>
+          <a href="./leetcode/src/s1137_n_th_tribonacci_number.rs"> N-th Tribonacci Number </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s1137_height_checker.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/height-checker/">Link</a>
+          <a href="./leetcode/src/doc/content/s1137_n_th_tribonacci_number.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/n-th-tribonacci-number/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          1480
+        </td>
+        <td>
+          <a href="./leetcode/src/s1480_running_sum_of_1d_array.rs"> Running Sum of 1d Array </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s1480_running_sum_of_1d_array.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/running-sum-of-1d-array/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          1588
+        </td>
+        <td>
+          <a href="./leetcode/src/s1588_sum_of_all_odd_length_subarrays.rs"> Sum of All Odd Length Subarrays </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s1588_sum_of_all_odd_length_subarrays.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
@@ -450,12 +502,12 @@
           1979
         </td>
         <td>
-          <a href="./leetcode/src/s1979_maximum_number_of_people_that_can_be_caught_in_tag.rs"> Maximum Number of People That Can Be Caught in Tag </a>
+          <a href="./leetcode/src/s1979_find_greatest_common_divisor_of_array.rs"> Find Greatest Common Divisor of Array </a>
         </td>
         <td>
-          <a href="./leetcode/src/doc/content/s1979_maximum_number_of_people_that_can_be_caught_in_tag.md">MD</a> /
-          <a href="https://leetcode-cn.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/">Link</a>
+          <a href="./leetcode/src/doc/content/s1979_find_greatest_common_divisor_of_array.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/find-greatest-common-divisor-of-array/">Link</a>
         </td>
-        <td>Medium</td>
+        <td>Easy</td>
       </tr></tbody>
 </table>
