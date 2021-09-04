@@ -4,6 +4,15 @@ struct Solution;
 
 impl Solution {
     pub fn fib(n: i32) -> i32 {
+        Self::fib_tail(n, 1, 0)
+    }
+    pub fn fib_tail(n: i32, a: i32, b: i32) -> i32 {
+        if n == 0 { return b; }
+        Self::fib_tail(n - 1, a + b, a)
+    }
+
+    #[allow(dead_code)]
+    pub fn fib_dynamic_main(n: i32) -> i32 {
         Self::fib_dynamic(n).0
     }
 
