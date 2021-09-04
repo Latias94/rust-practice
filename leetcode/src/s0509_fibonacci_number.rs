@@ -4,6 +4,22 @@ struct Solution;
 
 impl Solution {
     pub fn fib(n: i32) -> i32 {
+        Self::fib_dynamic(n).0
+    }
+
+    pub fn fib_dynamic(n: i32) -> (i32, i32) {
+        if n == 0 {
+            return (0, 0);
+        }
+        if n == 1 {
+            return (1, 0);
+        }
+        let (a, b) = Self::fib_dynamic(n - 1);
+        (a + b, a)
+    }
+
+    #[allow(dead_code)]
+    pub fn fib_store_with_vec(n: i32) -> i32 {
         let mut v = vec![0, 1];
         loop {
             let i = n as usize;

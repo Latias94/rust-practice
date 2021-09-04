@@ -408,6 +408,19 @@
       </tr>
       <tr>
         <td>
+          912
+        </td>
+        <td>
+          <a href="./leetcode/src/s0912_random_pick_with_weight.rs"> Random Pick with Weight </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0912_random_pick_with_weight.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/random-pick-with-weight/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           977
         </td>
         <td>

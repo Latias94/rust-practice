@@ -11,13 +11,13 @@
 cargo install diesel_cli --no-default-features --features "sqlite-bundled"
 ```
 
-安装 [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make)
+安装 [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make):
 
 ```shell
 cargo install --force cargo-make
 ```
 
-抓取题目、描述和解答到数据库，并根据模板生成 README.md。
+抓取题目、描述和解答到数据库，并根据模板生成 README.md:
 
 ```shell
 cargo make readme
