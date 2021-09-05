@@ -356,6 +356,19 @@
       </tr>
       <tr>
         <td>
+          470
+        </td>
+        <td>
+          <a href="./leetcode/src/s0470_implement_rand10_using_rand7.rs"> Implement Rand10() Using Rand7() </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0470_implement_rand10_using_rand7.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/implement-rand10-using-rand7/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           509
         </td>
         <td>

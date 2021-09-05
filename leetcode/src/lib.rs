@@ -23,6 +23,7 @@ mod s0213_house_robber_ii;
 mod s0278_first_bad_version;
 mod s0452_minimum_number_of_arrows_to_burst_balloons;
 mod s0455_assign_cookies;
+mod s0470_implement_rand10_using_rand7;
 mod s0509_fibonacci_number;
 mod s0704_binary_search;
 mod s0740_delete_and_earn;
