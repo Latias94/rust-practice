@@ -12,6 +12,7 @@ mod s0066_plus_one;
 mod s0070_climbing_stairs;
 mod s0072_edit_distance;
 mod s0105_construct_binary_tree_from_preorder_and_inorder_traversal;
+mod s0110_balanced_binary_tree;
 mod s0124_binary_tree_maximum_path_sum;
 mod s0125_valid_palindrome;
 mod s0136_single_number;

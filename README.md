@@ -200,6 +200,19 @@
       </tr>
       <tr>
         <td>
+          110
+        </td>
+        <td>
+          <a href="./leetcode/src/s0110_balanced_binary_tree.rs"> Balanced Binary Tree </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0110_balanced_binary_tree.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/balanced-binary-tree/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           124
         </td>
         <td>
