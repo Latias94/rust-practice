@@ -1,6 +1,6 @@
 use criterion::{black_box, criterion_group, criterion_main, Criterion};
 
-use leetcode_rust::s0035_search_insert_position::Solution;
+use leetcode::s0035_search_insert_position::Solution;
 
 fn criterion_benchmark(c: &mut Criterion) {
     c.bench_function("search_insert_first 1", |b| {
