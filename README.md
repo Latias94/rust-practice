@@ -278,6 +278,19 @@
       </tr>
       <tr>
         <td>
+          167
+        </td>
+        <td>
+          <a href="./leetcode/src/s0167_two_sum_ii_input_array_is_sorted.rs"> Two Sum II - Input array is sorted </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0167_two_sum_ii_input_array_is_sorted.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           168
         </td>
         <td>
@@ -351,6 +364,19 @@
         <td>
           <a href="./leetcode/src/doc/content/s0278_first_bad_version.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/first-bad-version/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          283
+        </td>
+        <td>
+          <a href="./leetcode/src/s0283_move_zeroes.rs"> Move Zeroes </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0283_move_zeroes.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/move-zeroes/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
