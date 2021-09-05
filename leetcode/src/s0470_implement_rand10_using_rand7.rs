@@ -3,7 +3,6 @@ struct Solution;
 use rand::distributions::Uniform;
 use rand::thread_rng;
 use rand::Rng;
-
 fn rand7() -> i32 {
     let distribution: Uniform<i32> = Uniform::new(0, 7);
     let mut rng = thread_rng();
@@ -18,6 +17,7 @@ fn rand7() -> i32 {
  */
 
 impl Solution {
+    #[allow(dead_code)]
     pub fn rand10() -> i32 {
         loop {
             let result = (rand7() - 1) * 7 + rand7();

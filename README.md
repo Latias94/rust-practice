@@ -57,6 +57,19 @@
       </tr>
       <tr>
         <td>
+          19
+        </td>
+        <td>
+          <a href="./leetcode/src/s0019_remove_nth_node_from_end_of_list.rs"> Remove Nth Node From End of List </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0019_remove_nth_node_from_end_of_list.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           35
         </td>
         <td>
