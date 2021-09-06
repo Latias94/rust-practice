@@ -3,7 +3,10 @@
 pkg/
 .vscode
 .DS_Store
-.idea
+
+.idea/*
+!.idea/leetcode/
+
 *.sqlite
 *.tar.gz
 stream/
