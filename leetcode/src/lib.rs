@@ -35,6 +35,7 @@ mod s0704_binary_search;
 mod s0740_delete_and_earn;
 mod s0746_min_cost_climbing_stairs;
 mod s0860_lemonade_change;
+mod s0876_middle_of_the_linked_list;
 mod s0912_sort_an_array;
 mod s0977_squares_of_a_sorted_array;
 mod s1137_n_th_tribonacci_number;
