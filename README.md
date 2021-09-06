@@ -382,6 +382,19 @@
       </tr>
       <tr>
         <td>
+          344
+        </td>
+        <td>
+          <a href="./leetcode/src/s0344_reverse_string.rs"> Reverse String </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0344_reverse_string.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/reverse-string/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           452
         </td>
         <td>
@@ -429,6 +442,19 @@
         <td>
           <a href="./leetcode/src/doc/content/s0509_fibonacci_number.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/fibonacci-number/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          557
+        </td>
+        <td>
+          <a href="./leetcode/src/s0557_reverse_words_in_a_string_iii.rs"> Reverse Words in a String III </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0557_reverse_words_in_a_string_iii.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
