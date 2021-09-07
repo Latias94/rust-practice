@@ -33,11 +33,18 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0019_remove_nth_node_from_end_of_list.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0019_remove_nth_node_from_end_of_list.md"/>
-              <option name="frontendQuestionId" value="19"/>
-              <option name="path"
-                      value="$PROJECT_DIR$/leetcode/src/s0019_remove_nth_node_from_end_of_list.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0019_remove_nth_node_from_end_of_list.md" />
+              <option name="frontendQuestionId" value="19" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0019_remove_nth_node_from_end_of_list.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0026_remove_duplicates_from_sorted_array.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0026_remove_duplicates_from_sorted_array.md" />
+              <option name="frontendQuestionId" value="26" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0026_remove_duplicates_from_sorted_array.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -107,9 +114,9 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0066_plus_one.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0066_plus_one.md"/>
-              <option name="frontendQuestionId" value="66"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0066_plus_one.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0066_plus_one.md" />
+              <option name="frontendQuestionId" value="66" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0066_plus_one.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -152,11 +159,18 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0110_balanced_binary_tree.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0110_balanced_binary_tree.md"/>
-              <option name="frontendQuestionId" value="110"/>
-              <option name="path"
-                      value="$PROJECT_DIR$/leetcode/src/s0110_balanced_binary_tree.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0110_balanced_binary_tree.md" />
+              <option name="frontendQuestionId" value="110" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0110_balanced_binary_tree.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0121_best_time_to_buy_and_sell_stock.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0121_best_time_to_buy_and_sell_stock.md" />
+              <option name="frontendQuestionId" value="121" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0121_best_time_to_buy_and_sell_stock.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -172,10 +186,9 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0125_valid_palindrome.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0125_valid_palindrome.md"/>
-              <option name="frontendQuestionId" value="125"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0125_valid_palindrome.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0125_valid_palindrome.md" />
+              <option name="frontendQuestionId" value="125" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0125_valid_palindrome.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -200,30 +213,27 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0167_two_sum_ii_input_array_is_sorted.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0167_two_sum_ii_input_array_is_sorted.md"/>
-              <option name="frontendQuestionId" value="167"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0167_two_sum_ii_input_array_is_sorted.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0167_two_sum_ii_input_array_is_sorted.md" />
+              <option name="frontendQuestionId" value="167" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0167_two_sum_ii_input_array_is_sorted.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0168_excel_sheet_column_title.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0168_excel_sheet_column_title.md"/>
-              <option name="frontendQuestionId" value="168"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0168_excel_sheet_column_title.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0168_excel_sheet_column_title.md" />
+              <option name="frontendQuestionId" value="168" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0168_excel_sheet_column_title.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0171_excel_sheet_column_number.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0171_excel_sheet_column_number.md"/>
-              <option name="frontendQuestionId" value="171"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0171_excel_sheet_column_number.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0171_excel_sheet_column_number.md" />
+              <option name="frontendQuestionId" value="171" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0171_excel_sheet_column_number.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -254,6 +264,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0217_contains_duplicate.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0217_contains_duplicate.md" />
+              <option name="frontendQuestionId" value="217" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0217_contains_duplicate.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0278_first_bad_version.rs">
           <value>
             <LeetcodeEditor>
@@ -266,9 +285,9 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0283_move_zeroes.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0283_move_zeroes.md"/>
-              <option name="frontendQuestionId" value="283"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0283_move_zeroes.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0283_move_zeroes.md" />
+              <option name="frontendQuestionId" value="283" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0283_move_zeroes.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -302,9 +321,9 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0470_implement_rand10_using_rand7.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0470_implement_rand10_using_rand7.md"/>
-              <option name="frontendQuestionId" value="470"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0470_implement_rand10_using_rand7.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0470_implement_rand10_using_rand7.md" />
+              <option name="frontendQuestionId" value="470" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0470_implement_rand10_using_rand7.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -374,10 +393,9 @@
         <entry key="$PROJECT_DIR$/leetcode/src/s0912_sort_an_array.rs">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath"
-                      value="$PROJECT_DIR$/leetcode/src/doc/content/s0912_sort_an_array.md"/>
-              <option name="frontendQuestionId" value="912"/>
-              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0912_sort_an_array.rs"/>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0912_sort_an_array.md" />
+              <option name="frontendQuestionId" value="912" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0912_sort_an_array.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -405,6 +423,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s1137_n_th_tribonacci_number.md" />
               <option name="frontendQuestionId" value="1137" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s1137_n_th_tribonacci_number.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s1221_split_a_string_in_balanced_strings.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s1221_split_a_string_in_balanced_strings.md" />
+              <option name="frontendQuestionId" value="1221" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s1221_split_a_string_in_balanced_strings.rs" />
             </LeetcodeEditor>
           </value>
         </entry>

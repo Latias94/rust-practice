@@ -70,6 +70,19 @@
       </tr>
       <tr>
         <td>
+          26
+        </td>
+        <td>
+          <a href="./leetcode/src/s0026_remove_duplicates_from_sorted_array.rs"> Remove Duplicates from Sorted Array </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0026_remove_duplicates_from_sorted_array.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           35
         </td>
         <td>
@@ -226,6 +239,19 @@
       </tr>
       <tr>
         <td>
+          121
+        </td>
+        <td>
+          <a href="./leetcode/src/s0121_best_time_to_buy_and_sell_stock.rs"> Best Time to Buy and Sell Stock </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0121_best_time_to_buy_and_sell_stock.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           124
         </td>
         <td>
@@ -353,6 +379,19 @@
           <a href="https://leetcode-cn.com/problems/house-robber-ii/">Link</a>
         </td>
         <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
+          217
+        </td>
+        <td>
+          <a href="./leetcode/src/s0217_contains_duplicate.rs"> Contains Duplicate </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0217_contains_duplicate.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/contains-duplicate/">Link</a>
+        </td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>
@@ -512,6 +551,19 @@
       </tr>
       <tr>
         <td>
+          876
+        </td>
+        <td>
+          <a href="./leetcode/src/s0876_middle_of_the_linked_list.rs"> Middle of the Linked List </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0876_middle_of_the_linked_list.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/middle-of-the-linked-list/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           912
         </td>
         <td>
@@ -559,6 +611,19 @@
         <td>
           <a href="./leetcode/src/doc/content/s1137_n_th_tribonacci_number.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/n-th-tribonacci-number/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          1221
+        </td>
+        <td>
+          <a href="./leetcode/src/s1221_split_a_string_in_balanced_strings.rs"> Split a String in Balanced Strings </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s1221_split_a_string_in_balanced_strings.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
