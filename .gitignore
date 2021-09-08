@@ -1,9 +1,9 @@
 **/target
 **/*.rs.bk
+
 pkg/
 .vscode
 .DS_Store
-
 .idea/*
 !.idea/leetcode/
 
@@ -11,3 +11,4 @@ pkg/
 *.tar.gz
 stream/
 data/
+rustgym-readme.exe

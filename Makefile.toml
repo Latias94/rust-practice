@@ -18,6 +18,10 @@ script = ["diesel migration run --database-url rust-practice.sqlite"]
 script = ["cargo run --bin rustgym-readme"]
 dependencies = ["rm_sqlite", "migration"]
 
+[tasks.readme_no_build]
+script = ["rustgym-readme.exe"]
+dependencies = ["rm_sqlite", "migration"]
+
 [tasks.copy-server]
 script = 'cp target/release/rustgym-server rustgym-server'
 
