@@ -34,6 +34,7 @@ mod s0344_reverse_string;
 mod s0349_intersection_of_two_arrays;
 mod s0350_intersection_of_two_arrays_ii;
 mod s0374_guess_number_higher_or_lower;
+mod s0387_first_unique_character_in_a_string;
 mod s0452_minimum_number_of_arrows_to_burst_balloons;
 mod s0455_assign_cookies;
 mod s0470_implement_rand10_using_rand7;

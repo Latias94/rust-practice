@@ -345,6 +345,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0387_first_unique_character_in_a_string.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0387_first_unique_character_in_a_string.md" />
+              <option name="frontendQuestionId" value="387" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0387_first_unique_character_in_a_string.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0452_minimum_number_of_arrows_to_burst_balloons.rs">
           <value>
             <LeetcodeEditor>

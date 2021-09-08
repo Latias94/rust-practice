@@ -499,6 +499,19 @@
       </tr>
       <tr>
         <td>
+          387
+        </td>
+        <td>
+          <a href="./leetcode/src/s0387_first_unique_character_in_a_string.rs"> First Unique Character in a String </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0387_first_unique_character_in_a_string.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/first-unique-character-in-a-string/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           452
         </td>
         <td>
