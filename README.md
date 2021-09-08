@@ -239,6 +239,32 @@
       </tr>
       <tr>
         <td>
+          118
+        </td>
+        <td>
+          <a href="./leetcode/src/s0118_pascals_triangle.rs"> Pascal&#x27;s Triangle </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0118_pascals_triangle.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/pascals-triangle/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          119
+        </td>
+        <td>
+          <a href="./leetcode/src/s0119_pascals_triangle_ii.rs"> Pascal&#x27;s Triangle II </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0119_pascals_triangle_ii.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/pascals-triangle-ii/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           121
         </td>
         <td>
@@ -429,6 +455,45 @@
         <td>
           <a href="./leetcode/src/doc/content/s0344_reverse_string.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/reverse-string/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          349
+        </td>
+        <td>
+          <a href="./leetcode/src/s0349_intersection_of_two_arrays.rs"> Intersection of Two Arrays </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0349_intersection_of_two_arrays.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/intersection-of-two-arrays/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          350
+        </td>
+        <td>
+          <a href="./leetcode/src/s0350_intersection_of_two_arrays_ii.rs"> Intersection of Two Arrays II </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0350_intersection_of_two_arrays_ii.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          374
+        </td>
+        <td>
+          <a href="./leetcode/src/s0374_guess_number_higher_or_lower.rs"> Guess Number Higher or Lower </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0374_guess_number_higher_or_lower.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/guess-number-higher-or-lower/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
