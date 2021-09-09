@@ -57,6 +57,19 @@
       </tr>
       <tr>
         <td>
+          7
+        </td>
+        <td>
+          <a href="./leetcode/src/s0007_reverse_integer.rs"> Reverse Integer </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0007_reverse_integer.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/reverse-integer/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           19
         </td>
         <td>
@@ -67,6 +80,19 @@
           <a href="https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/">Link</a>
         </td>
         <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
+          20
+        </td>
+        <td>
+          <a href="./leetcode/src/s0020_valid_parentheses.rs"> Valid Parentheses </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0020_valid_parentheses.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/valid-parentheses/">Link</a>
+        </td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>

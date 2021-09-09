@@ -1,28 +1,30 @@
 struct Solution;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-use std::collections::HashSet;
-
 impl Solution {
     pub fn is_valid_sudoku(board: Vec<Vec<char>>) -> bool {
-        let mut rows: Vec<HashSet<char>> = vec![HashSet::new(); 9];
-        let mut cols: Vec<HashSet<char>> = vec![HashSet::new(); 9];
-        let mut boxes: Vec<HashSet<char>> = vec![HashSet::new(); 9];
+        let mut rows: Vec<Vec<bool>> = vec![vec![false; 9]; 9];
+        let mut cols: Vec<Vec<bool>> = vec![vec![false; 9]; 9];
+        let mut boxes: Vec<Vec<bool>> = vec![vec![false; 9]; 9];
         for row in 0..9 {
             for col in 0..9 {
                 let c = board[row][col];
                 if c == '.' {
                     continue;
                 }
-                if !rows[row].insert(c) {
+                let idx = c as usize - '1' as usize;
+                if rows[row][idx] {
                     return false;
                 }
-                if !cols[col].insert(c) {
+                if cols[col][idx] {
                     return false;
                 }
-                if !boxes[(row / 3) * 3 + col / 3].insert(c) {
+                if boxes[(row / 3) * 3 + col / 3][idx] {
                     return false;
                 }
+                rows[row][idx] = true;
+                cols[col][idx] = true;
+                boxes[(row / 3) * 3 + col / 3][idx] = true;
             }
         }
         true

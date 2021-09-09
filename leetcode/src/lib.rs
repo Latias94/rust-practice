@@ -1,7 +1,9 @@
 mod s0001_two_sum;
 mod s0002_add_two_numbers;
 mod s0003_longest_substring_without_repeating_characters;
+mod s0007_reverse_integer;
 mod s0019_remove_nth_node_from_end_of_list;
+mod s0020_valid_parentheses;
 mod s0026_remove_duplicates_from_sorted_array;
 pub mod s0035_search_insert_position;
 mod s0036_valid_sudoku;

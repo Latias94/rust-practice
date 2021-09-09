@@ -30,12 +30,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0007_reverse_integer.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0007_reverse_integer.md" />
+              <option name="frontendQuestionId" value="7" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0007_reverse_integer.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0019_remove_nth_node_from_end_of_list.rs">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0019_remove_nth_node_from_end_of_list.md" />
               <option name="frontendQuestionId" value="19" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s0019_remove_nth_node_from_end_of_list.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0020_valid_parentheses.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0020_valid_parentheses.md" />
+              <option name="frontendQuestionId" value="20" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0020_valid_parentheses.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
