@@ -57,6 +57,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0036_valid_sudoku.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0036_valid_sudoku.md" />
+              <option name="frontendQuestionId" value="36" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0036_valid_sudoku.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0053_maximum_subarray.rs">
           <value>
             <LeetcodeEditor>
@@ -117,6 +126,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0066_plus_one.md" />
               <option name="frontendQuestionId" value="66" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s0066_plus_one.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0068_text_justification.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0068_text_justification.md" />
+              <option name="frontendQuestionId" value="68" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0068_text_justification.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -273,6 +291,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0204_count_primes.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0204_count_primes.md" />
+              <option name="frontendQuestionId" value="204" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0204_count_primes.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0213_house_robber_ii.rs">
           <value>
             <LeetcodeEditor>
@@ -396,6 +423,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0557_reverse_words_in_a_string_iii.md" />
               <option name="frontendQuestionId" value="557" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s0557_reverse_words_in_a_string_iii.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0567_permutation_in_string.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0567_permutation_in_string.md" />
+              <option name="frontendQuestionId" value="567" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0567_permutation_in_string.rs" />
             </LeetcodeEditor>
           </value>
         </entry>

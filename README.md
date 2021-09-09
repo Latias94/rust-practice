@@ -96,6 +96,19 @@
       </tr>
       <tr>
         <td>
+          36
+        </td>
+        <td>
+          <a href="./leetcode/src/s0036_valid_sudoku.rs"> Valid Sudoku </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0036_valid_sudoku.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/valid-sudoku/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           53
         </td>
         <td>
@@ -184,6 +197,19 @@
           <a href="https://leetcode-cn.com/problems/plus-one/">Link</a>
         </td>
         <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          68
+        </td>
+        <td>
+          <a href="./leetcode/src/s0068_text_justification.rs"> Text Justification </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0068_text_justification.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/text-justification/">Link</a>
+        </td>
+        <td>Hard</td>
       </tr>
       <tr>
         <td>
@@ -392,6 +418,19 @@
           <a href="https://leetcode-cn.com/problems/house-robber/">Link</a>
         </td>
         <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
+          204
+        </td>
+        <td>
+          <a href="./leetcode/src/s0204_count_primes.rs"> Count Primes </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0204_count_primes.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/count-primes/">Link</a>
+        </td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>
