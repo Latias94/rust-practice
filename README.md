@@ -291,6 +291,19 @@
       </tr>
       <tr>
         <td>
+          83
+        </td>
+        <td>
+          <a href="./leetcode/src/s0083_remove_duplicates_from_sorted_list.rs"> Remove Duplicates from Sorted List </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0083_remove_duplicates_from_sorted_list.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           105
         </td>
         <td>

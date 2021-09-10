@@ -19,6 +19,7 @@ mod s0066_plus_one;
 mod s0068_text_justification;
 mod s0070_climbing_stairs;
 mod s0072_edit_distance;
+mod s0083_remove_duplicates_from_sorted_list;
 mod s0105_construct_binary_tree_from_preorder_and_inorder_traversal;
 mod s0110_balanced_binary_tree;
 mod s0118_pascals_triangle;

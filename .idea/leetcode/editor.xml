@@ -192,6 +192,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0083_remove_duplicates_from_sorted_list.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0083_remove_duplicates_from_sorted_list.md" />
+              <option name="frontendQuestionId" value="83" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0083_remove_duplicates_from_sorted_list.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0099_recover_binary_search_tree.rs">
           <value>
             <LeetcodeEditor>
