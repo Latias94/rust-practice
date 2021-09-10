@@ -39,6 +39,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0009_palindrome_number.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0009_palindrome_number.md" />
+              <option name="frontendQuestionId" value="9" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0009_palindrome_number.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0019_remove_nth_node_from_end_of_list.rs">
           <value>
             <LeetcodeEditor>
@@ -63,6 +72,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0026_remove_duplicates_from_sorted_array.md" />
               <option name="frontendQuestionId" value="26" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s0026_remove_duplicates_from_sorted_array.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0027_remove_element.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0027_remove_element.md" />
+              <option name="frontendQuestionId" value="27" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0027_remove_element.rs" />
             </LeetcodeEditor>
           </value>
         </entry>

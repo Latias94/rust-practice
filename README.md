@@ -70,6 +70,19 @@
       </tr>
       <tr>
         <td>
+          9
+        </td>
+        <td>
+          <a href="./leetcode/src/s0009_palindrome_number.rs"> Palindrome Number </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0009_palindrome_number.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/palindrome-number/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           19
         </td>
         <td>
@@ -104,6 +117,19 @@
         <td>
           <a href="./leetcode/src/doc/content/s0026_remove_duplicates_from_sorted_array.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          27
+        </td>
+        <td>
+          <a href="./leetcode/src/s0027_remove_element.rs"> Remove Element </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0027_remove_element.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/remove-element/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
