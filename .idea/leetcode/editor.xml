@@ -480,6 +480,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0695_max_area_of_island.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0695_max_area_of_island.md" />
+              <option name="frontendQuestionId" value="695" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0695_max_area_of_island.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0704_binary_search.rs">
           <value>
             <LeetcodeEditor>

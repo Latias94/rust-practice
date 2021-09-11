@@ -1,5 +1,6 @@
-struct Solution;
 use rustgym_util::*;
+
+struct Solution;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 // Definition for singly-linked list.
@@ -19,8 +20,7 @@ use rustgym_util::*;
 //   }
 // }
 impl Solution {
-    pub fn delete_duplicates(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
-        let mut head = head; // 避免参数上加 mut
+    pub fn delete_duplicates(mut head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
         let mut cur = head.as_mut();
         while let Some(mut node) = cur.take() {
             while let Some(next) = node.next.as_mut() {

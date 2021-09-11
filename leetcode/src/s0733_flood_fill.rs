@@ -2,8 +2,7 @@ struct Solution;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 impl Solution {
-    pub fn flood_fill(image: Vec<Vec<i32>>, sr: i32, sc: i32, new_color: i32) -> Vec<Vec<i32>> {
-        let mut image = image;
+    pub fn flood_fill(mut image: Vec<Vec<i32>>, sr: i32, sc: i32, new_color: i32) -> Vec<Vec<i32>> {
         let usr = sr as usize;
         let usc = sc as usize;
         let old_color = image[usr][usc];

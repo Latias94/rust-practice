@@ -48,6 +48,7 @@ mod s0455_assign_cookies;
 mod s0470_implement_rand10_using_rand7;
 mod s0509_fibonacci_number;
 mod s0557_reverse_words_in_a_string_iii;
+mod s0695_max_area_of_island;
 mod s0704_binary_search;
 mod s0733_flood_fill;
 mod s0740_delete_and_earn;
