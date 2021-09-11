@@ -1,3 +1,7 @@
+use rustgym_util::*;
+
+struct Solution;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 // Definition for a binary tree node.
 // #[derive(Debug, PartialEq, Eq)]
@@ -19,10 +23,6 @@
 // }
 use std::cell::RefCell;
 use std::rc::Rc;
-
-use rustgym_util::*;
-
-struct Solution;
 
 impl Solution {
     pub fn merge_trees(

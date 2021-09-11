@@ -1,14 +1,14 @@
+struct Solution;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 use std::collections::HashMap;
-
-struct Solution;
 
 impl Solution {
     pub fn count_characters(words: Vec<String>, chars: String) -> i32 {
         let mut total_len: i32 = 0;
-        let map = Self::get_map_from_string(&chars);
+        let map = Self::create_map_from_string(&chars);
         'outer: for word in words {
-            let word_map = Self::get_map_from_string(&word);
+            let word_map = Self::create_map_from_string(&word);
             for (c, count) in word_map {
                 if map.get(&c).unwrap_or(&0) < &count {
                     continue 'outer;
@@ -19,7 +19,7 @@ impl Solution {
         total_len
     }
 
-    pub fn get_map_from_string(word: &str) -> HashMap<u8, u32> {
+    pub fn create_map_from_string(word: &str) -> HashMap<u8, u32> {
         word.bytes()
             .into_iter()
             .fold(HashMap::new(), |mut map, num| {
