@@ -489,6 +489,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0733_flood_fill.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0733_flood_fill.md" />
+              <option name="frontendQuestionId" value="733" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0733_flood_fill.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0740_delete_and_earn.rs">
           <value>
             <LeetcodeEditor>

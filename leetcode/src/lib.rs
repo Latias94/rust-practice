@@ -49,6 +49,7 @@ mod s0470_implement_rand10_using_rand7;
 mod s0509_fibonacci_number;
 mod s0557_reverse_words_in_a_string_iii;
 mod s0704_binary_search;
+mod s0733_flood_fill;
 mod s0740_delete_and_earn;
 mod s0746_min_cost_climbing_stairs;
 mod s0860_lemonade_change;
