@@ -681,6 +681,19 @@
       </tr>
       <tr>
         <td>
+          695
+        </td>
+        <td>
+          <a href="./leetcode/src/s0695_max_area_of_island.rs"> Max Area of Island </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0695_max_area_of_island.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/max-area-of-island/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           704
         </td>
         <td>
