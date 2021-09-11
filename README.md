@@ -681,6 +681,19 @@
       </tr>
       <tr>
         <td>
+          617
+        </td>
+        <td>
+          <a href="./leetcode/src/s0617_merge_two_binary_trees.rs"> Merge Two Binary Trees </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0617_merge_two_binary_trees.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/merge-two-binary-trees/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           695
         </td>
         <td>
@@ -819,6 +832,19 @@
         <td>
           <a href="./leetcode/src/doc/content/s1137_n_th_tribonacci_number.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/n-th-tribonacci-number/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          1160
+        </td>
+        <td>
+          <a href="./leetcode/src/s1160_find_words_that_can_be_formed_by_characters.rs"> Find Words That Can Be Formed by Characters </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s1160_find_words_that_can_be_formed_by_characters.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/">Link</a>
         </td>
         <td>Easy</td>
       </tr>

@@ -480,6 +480,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0617_merge_two_binary_trees.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0617_merge_two_binary_trees.md" />
+              <option name="frontendQuestionId" value="617" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0617_merge_two_binary_trees.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0695_max_area_of_island.rs">
           <value>
             <LeetcodeEditor>
@@ -576,6 +585,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s1137_n_th_tribonacci_number.md" />
               <option name="frontendQuestionId" value="1137" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s1137_n_th_tribonacci_number.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s1160_find_words_that_can_be_formed_by_characters.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s1160_find_words_that_can_be_formed_by_characters.md" />
+              <option name="frontendQuestionId" value="1160" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s1160_find_words_that_can_be_formed_by_characters.rs" />
             </LeetcodeEditor>
           </value>
         </entry>
