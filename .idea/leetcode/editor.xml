@@ -66,6 +66,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0021_merge_two_sorted_lists.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0021_merge_two_sorted_lists.md" />
+              <option name="frontendQuestionId" value="21" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0021_merge_two_sorted_lists.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0026_remove_duplicates_from_sorted_array.rs">
           <value>
             <LeetcodeEditor>

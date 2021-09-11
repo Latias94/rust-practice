@@ -109,6 +109,19 @@
       </tr>
       <tr>
         <td>
+          21
+        </td>
+        <td>
+          <a href="./leetcode/src/s0021_merge_two_sorted_lists.rs"> Merge Two Sorted Lists </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0021_merge_two_sorted_lists.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           26
         </td>
         <td>

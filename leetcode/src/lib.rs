@@ -5,6 +5,7 @@ mod s0007_reverse_integer;
 mod s0009_palindrome_number;
 mod s0019_remove_nth_node_from_end_of_list;
 mod s0020_valid_parentheses;
+mod s0021_merge_two_sorted_lists;
 mod s0026_remove_duplicates_from_sorted_array;
 mod s0027_remove_element;
 pub mod s0035_search_insert_position;
