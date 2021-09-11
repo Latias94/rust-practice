@@ -24,17 +24,16 @@ impl Solution {
         l2: Option<Box<ListNode>>,
     ) -> Option<Box<ListNode>> {
         match (l1, l2) {
+            (None, None) => None,
+            (node1, None) => node1,
+            (None, node2) => node2,
             (Some(mut node1), Some(mut node2)) => {
                 if node1.val > node2.val {
                     std::mem::swap(&mut node1, &mut node2);
                 }
-                let next = node1.next.take();
-                node1.next = Solution::merge_two_lists(Some(node2), next);
+                node1.next = Solution::merge_two_lists(Some(node2), node1.next);
                 Some(node1)
             }
-            (Some(node1), None) => Some(node1),
-            (None, Some(node2)) => Some(node2),
-            _ => None,
         }
     }
 }
