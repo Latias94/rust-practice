@@ -201,6 +201,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0077_combinations.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0077_combinations.md" />
+              <option name="frontendQuestionId" value="77" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0077_combinations.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0083_remove_duplicates_from_sorted_list.rs">
           <value>
             <LeetcodeEditor>
@@ -351,6 +360,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0204_count_primes.md" />
               <option name="frontendQuestionId" value="204" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s0204_count_primes.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0206_reverse_linked_list.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0206_reverse_linked_list.md" />
+              <option name="frontendQuestionId" value="206" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0206_reverse_linked_list.rs" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -304,6 +304,19 @@
       </tr>
       <tr>
         <td>
+          77
+        </td>
+        <td>
+          <a href="./leetcode/src/s0077_combinations.rs"> Combinations </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0077_combinations.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/combinations/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           83
         </td>
         <td>
@@ -507,6 +520,19 @@
         <td>
           <a href="./leetcode/src/doc/content/s0204_count_primes.md">MD</a> /
           <a href="https://leetcode-cn.com/problems/count-primes/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          206
+        </td>
+        <td>
+          <a href="./leetcode/src/s0206_reverse_linked_list.rs"> Reverse Linked List </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0206_reverse_linked_list.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/reverse-linked-list/">Link</a>
         </td>
         <td>Easy</td>
       </tr>
