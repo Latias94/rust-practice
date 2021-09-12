@@ -4,7 +4,7 @@ struct Solution;
 impl Solution {
     pub fn full_justify(words: Vec<String>, max_width: i32) -> Vec<String> {
         let n = words.len();
-        let max_width: usize = max_width as usize;
+        let max_width = max_width as usize;
         let mut result = Vec::new();
         let mut left = 0;
         let mut right = 1;
@@ -25,7 +25,8 @@ impl Solution {
             if left < right && right < n {
                 let len = right - left;
                 let one_element_only = right - left - 1 == 0; // 是不是只放得下一个元素
-                                                              // 除了两个单词之间的一个空格外，平均每个间隔里面要多少空格
+
+                // 除了两个单词之间的一个空格外，平均每个间隔里面要多少空格
                 let each_space = if one_element_only {
                     0
                 } else {
