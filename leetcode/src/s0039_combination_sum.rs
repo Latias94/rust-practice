@@ -20,6 +20,7 @@ impl Solution {
             match current_sum.cmp(&target) {
                 Equal => result.push(path.to_vec()),
                 Less => {
+                    // last_index 剪枝用
                     for i in last_index..len {
                         let num = candidates[i];
                         path.push(num);
