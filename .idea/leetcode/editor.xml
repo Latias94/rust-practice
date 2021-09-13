@@ -111,6 +111,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0039_combination_sum.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0039_combination_sum.md" />
+              <option name="frontendQuestionId" value="39" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0039_combination_sum.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0046_permutations.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0046_permutations.md" />
+              <option name="frontendQuestionId" value="46" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0046_permutations.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0053_maximum_subarray.rs">
           <value>
             <LeetcodeEditor>

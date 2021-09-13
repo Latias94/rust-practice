@@ -10,6 +10,8 @@ mod s0026_remove_duplicates_from_sorted_array;
 mod s0027_remove_element;
 pub mod s0035_search_insert_position;
 mod s0036_valid_sudoku;
+mod s0039_combination_sum;
+mod s0046_permutations;
 mod s0053_maximum_subarray;
 mod s0055_jump_game;
 mod s0058_length_of_last_word;

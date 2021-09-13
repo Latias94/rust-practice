@@ -174,6 +174,32 @@
       </tr>
       <tr>
         <td>
+          39
+        </td>
+        <td>
+          <a href="./leetcode/src/s0039_combination_sum.rs"> Combination Sum </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0039_combination_sum.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/combination-sum/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
+          46
+        </td>
+        <td>
+          <a href="./leetcode/src/s0046_permutations.rs"> Permutations </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0046_permutations.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/permutations/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           53
         </td>
         <td>
