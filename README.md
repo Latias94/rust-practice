@@ -187,6 +187,19 @@
       </tr>
       <tr>
         <td>
+          40
+        </td>
+        <td>
+          <a href="./leetcode/src/s0040_combination_sum_ii.rs"> Combination Sum II </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0040_combination_sum_ii.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/combination-sum-ii/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           46
         </td>
         <td>
@@ -343,6 +356,19 @@
       </tr>
       <tr>
         <td>
+          78
+        </td>
+        <td>
+          <a href="./leetcode/src/s0078_subsets.rs"> Subsets </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0078_subsets.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/subsets/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           83
         </td>
         <td>
@@ -353,6 +379,19 @@
           <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/">Link</a>
         </td>
         <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
+          90
+        </td>
+        <td>
+          <a href="./leetcode/src/s0090_subsets_ii.rs"> Subsets II </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0090_subsets_ii.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/subsets-ii/">Link</a>
+        </td>
+        <td>Medium</td>
       </tr>
       <tr>
         <td>

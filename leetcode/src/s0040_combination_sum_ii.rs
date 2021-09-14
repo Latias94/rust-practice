@@ -2,7 +2,8 @@ struct Solution;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 impl Solution {
-    pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
+    pub fn combination_sum2(mut candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
+        candidates.sort_unstable();
         let len = candidates.len();
         let mut result = Vec::new();
         let mut path = Vec::new();
@@ -23,8 +24,11 @@ impl Solution {
                     // last_index 剪枝用
                     for i in last_index..len {
                         let num = candidates[i];
+                        if i > last_index && num == candidates[i - 1] {
+                            continue;
+                        }
                         path.push(num);
-                        dfs(candidates, len, current_sum + num, target, i, path, result);
+                        dfs(candidates, len, current_sum + num, target, i+1, path, result);
                         path.pop(); // 回溯
                     }
                 }
@@ -32,6 +36,7 @@ impl Solution {
             }
         }
         dfs(&candidates, len, 0, target, 0, &mut path, &mut result);
+        result.dedup();
         result
     }
 }
@@ -40,16 +45,14 @@ impl Solution {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use rustgym_util::*;
 
     #[test]
     fn test() {
-        let candidates = vec![2, 3, 6, 7];
-        let target = 7;
-        let res = vec![vec![2, 2, 3], vec![7]];
-        assert_eq!(Solution::combination_sum(candidates, target), res);
-        let candidates = vec![2, 3, 5];
+        let candidates = vec![10, 1, 2, 7, 6, 1, 5];
         let target = 8;
-        let res = vec![vec![2, 2, 2, 2], vec![2, 3, 3], vec![3, 5]];
-        assert_eq!(Solution::combination_sum(candidates, target), res);
+        let mut res = vec_vec_i32![[1, 7], [1, 2, 5], [2, 6], [1, 1, 6]];
+        res.sort_unstable();
+        assert_eq!(Solution::combination_sum2(candidates, target), res);
     }
 }
