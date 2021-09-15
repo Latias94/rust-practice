@@ -93,6 +93,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0028_implement_strstr.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0028_implement_strstr.md" />
+              <option name="frontendQuestionId" value="28" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0028_implement_strstr.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0034_find_first_and_last_position_of_element_in_sorted_array.rs">
           <value>
             <LeetcodeEditor>

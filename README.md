@@ -148,6 +148,19 @@
       </tr>
       <tr>
         <td>
+          28
+        </td>
+        <td>
+          <a href="./leetcode/src/s0028_implement_strstr.rs"> Implement strStr() </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0028_implement_strstr.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/implement-strstr/">Link</a>
+        </td>
+        <td>Easy</td>
+      </tr>
+      <tr>
+        <td>
           34
         </td>
         <td>
