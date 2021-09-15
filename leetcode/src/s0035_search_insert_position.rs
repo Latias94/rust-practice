@@ -5,17 +5,17 @@ use std::cmp::Ordering::*;
 
 impl Solution {
     pub fn search_insert(nums: Vec<i32>, target: i32) -> i32 {
-        let mut low = 0;
-        let mut high = nums.len();
-        while low < high {
-            let mid = (high - low) / 2 + low;
+        let mut left = 0;
+        let mut right = nums.len();
+        while left < right {
+            let mid = left + ((right - left) >> 1);
             match nums[mid].cmp(&target) {
                 Equal => return mid as i32,
-                Less => low = mid + 1,
-                Greater => high = mid,
+                Less => left = mid + 1,
+                Greater => right = mid,
             }
         }
-        low as i32
+        left as i32
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

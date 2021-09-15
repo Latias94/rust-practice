@@ -148,6 +148,19 @@
       </tr>
       <tr>
         <td>
+          34
+        </td>
+        <td>
+          <a href="./leetcode/src/s0034_find_first_and_last_position_of_element_in_sorted_array.rs"> Find First and Last Position of Element in Sorted Array </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0034_find_first_and_last_position_of_element_in_sorted_array.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Link</a>
+        </td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>
           35
         </td>
         <td>
@@ -314,6 +327,19 @@
           <a href="https://leetcode-cn.com/problems/text-justification/">Link</a>
         </td>
         <td>Hard</td>
+      </tr>
+      <tr>
+        <td>
+          69
+        </td>
+        <td>
+          <a href="./leetcode/src/s0069_sqrtx.rs"> Sqrt(x) </a>
+        </td>
+        <td>
+          <a href="./leetcode/src/doc/content/s0069_sqrtx.md">MD</a> /
+          <a href="https://leetcode-cn.com/problems/sqrtx/">Link</a>
+        </td>
+        <td>Easy</td>
       </tr>
       <tr>
         <td>

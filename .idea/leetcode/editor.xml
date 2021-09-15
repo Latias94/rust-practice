@@ -93,6 +93,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0034_find_first_and_last_position_of_element_in_sorted_array.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0034_find_first_and_last_position_of_element_in_sorted_array.md" />
+              <option name="frontendQuestionId" value="34" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0034_find_first_and_last_position_of_element_in_sorted_array.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/src/s0035_search_insert_position.rs">
           <value>
             <LeetcodeEditor>
@@ -207,6 +216,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0068_text_justification.md" />
               <option name="frontendQuestionId" value="68" />
               <option name="path" value="$PROJECT_DIR$/leetcode/src/s0068_text_justification.rs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/src/s0069_sqrtx.rs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/src/doc/content/s0069_sqrtx.md" />
+              <option name="frontendQuestionId" value="69" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/src/s0069_sqrtx.rs" />
             </LeetcodeEditor>
           </value>
         </entry>

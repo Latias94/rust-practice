@@ -9,7 +9,7 @@ impl Solution {
         let mut left = 0;
         let mut right = n - 1;
         while left <= right {
-            let mid = (right - left) / 2 + left;
+            let mid = ((right - left) >> 1) + left;
             match nums[mid].cmp(&target) {
                 Equal => return mid as i32,
                 Less => {
